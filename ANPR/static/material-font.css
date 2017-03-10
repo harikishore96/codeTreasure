@@ -1,0 +1,11 @@
+/* get the required local files */
+@font-face {
+  font-family: 'Roboto';
+  src: url('Roboto-Light.ttf')  format('truetype');
+}
+
+/* use the font */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+}
